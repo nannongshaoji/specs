@@ -8,10 +8,6 @@
 *注：本文档符合自身规范，可视作demo，参看源码*
 
 大家可以 `fork` 后形成自己团队的规范版本
-## 编辑器及插件
-* 下载安装visual studio code
-* 在visual studio code的extension中安装Markdown All in One
-* 在visual studio code的extension中安装Markdown Preview Enhanced
   
 ## 全局规范
 <a name="top"></a>

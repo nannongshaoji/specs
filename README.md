@@ -9,9 +9,10 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 下载安装visual studio code
+2. 在visual studio code的extension中安装Markdown All in One
+3. 在visual studio code的extension中安装Markdown Preview Enhanced
+4. 在visual studio code的extension中安装Markdown Toc
 
 #### 使用说明
 
