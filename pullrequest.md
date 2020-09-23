@@ -3,7 +3,7 @@
 向Gogs远程服务器中的仓库提交代码，提交PR请遵循以下事项:
 + 不同的功能请分开提交，不要把不相关的修改一次性提交；
 + 提交时的message请使用英文描述，不要出现中文；
-+ 提交message格式一般包括三部分：Header、Body和Footer
++ git commit 提交message格式一般包括三部分：Header、Body和Footer
     + Header : type(scope):subject
         + type：用于说明commit的类别，规定为如下几种：  
             | type | 说明 |
@@ -19,7 +19,7 @@
             | test |测试用例的修改|
             | ci |自动化流程配置修改|
             | revert |回滚到上一个版本|
-        + scope：【可选】用于说明commit的影响范围
+        + scope：[可选] 问题单的单号
         + subject：commit的简要说明，尽量简短
     + Body : 对本次commit的详细描述，可分多行;
     + Footer : 不兼容变动：需要描述相关信息, 关闭指定Issue：输入Issue信息;
